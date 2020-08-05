@@ -1,1 +1,1 @@
-:computer:s are the :shit:
+![Intro](https://github.com/thomasms/thomasms/blob/master/githubintro.gif)
