@@ -2,4 +2,4 @@
 - :speech_balloon: [physicstom.com](https://physicstom.com)
 - :e-mail: stainertom+github@gmail.com
 - :moneybag: [accountingtom.com](https://accountingtom.com)
-- :england: in :belgium:
+- Give me C, C++, Python, Fortran, Javascript, Julia, Rust, Go, ... anything but Java
